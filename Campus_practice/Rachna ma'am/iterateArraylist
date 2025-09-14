@@ -1,7 +1,0 @@
-There are many ways to iterate collection element:
-->  By iterator interface
-->  By for each loop
-->  By Listiteraor interface
-->  By for loop
-->  By forEach loop() 
-->  By forEach remaining
