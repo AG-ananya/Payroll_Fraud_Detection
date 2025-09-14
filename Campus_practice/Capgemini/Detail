@@ -1,0 +1,29 @@
+30 technical-> oops, cloud,pseudo code, dsa, dbms, AWS service specific(like ec2, lambda), networking (30 min.)
+
+IMP TOPICS-
+Bitwise and, or, xor
+
+is social media a reliable source of news
+how internships prepare student for the real world
+
+ This is 21st century going on and the usage of technology is also increases day-by-day.Social media is also of those technology whose usage increases day-by-day. Social media is a vast platform where people connect, communicate, and share their feelings, or thoughts socially. This also help people to showcase their talent.
+Everyone from children to teenager, and teenager to elder is somehow connected with the social media. Specially, teenagers they are so much connected with the social media. They are well aware about the social media trends, but they don't know what is going on in their country even they don't know about their states. Social media is a reliable source of news in this senerio. Atleast while using social media. People got to know that what is going on in their state, or country. Social media is also the fastest way to receive any kind of news, or information irrespective of the place. We know that every coin has two phases. Similarly, every technology has its own pros, and cons. Social media aslo have both. On the one hand it is the fastest way to spread news, or information. Sometime it also spread fake news like in the time of pandemic their were so many fake news spread every single day. Some news like the vaccine of covid harm people, and because of such rumors many people afraid to took that vaccine.
+Sometime social media make people aware, and sometime it also become the source of fake news. Every technology is there to help people. Likewise, social media is also there to help us not to distract us. Its all up to us. We should know that we believe on which news, and igorned which one. 
+
+/* Problem: Number of Islands
+🔸 Statement:
+You are given a 2D grid of characters consisting of:
+
+'1' → land
+
+'0' → water
+
+You need to count how many islands are there in the grid.
+char[][] grid = {
+  {'1', '1', '0', '0'},
+  {'1', '1', '0', '0'},
+  {'0', '0', '1', '0'},
+  {'0', '0', '0', '1'}
+};
+3
+*/

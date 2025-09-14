@@ -1,0 +1,5 @@
+        /*
+         Methods:
+         retainAll(), containsAll(), trimToSize(), removeRange(), replaceAll(), removeIf()- removes elements that satisfy the condition, forEach(), iterator(), clone()- make copy of arraylist
+         get(), set()
+         */
