@@ -35,3 +35,17 @@ Payroll_Management_System/
 ├── libraries/   # External JAR dependencies
 ├── dist/        # Compiled output
 └── README.md    # Documentation
+
+⚙️ Setup Instructions
+
+Clone the repository:
+
+git clone https://github.com/AG-ananya/Payroll_Fraud_Detection.git
+
+Import project into NetBeans IDE
+
+Configure MySQL using the script in /database
+
+Update database connection settings in the code
+
+Build & run the project from NetBeans 
